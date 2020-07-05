@@ -1,0 +1,2 @@
+className=com.pack.student
+method=fun2
